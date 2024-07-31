@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/arrow_animation.xml" value="0.1255" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/arrow_up.xml" value="0.148" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/bg_btn.xml" value="0.1475" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/bg_btn_info.xml" value="0.1475" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/border.xml" value="0.2" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/green_radius.xml" value="0.148" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/hint.xml" value="0.147" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/ic_arrow_left.xml" value="0.1485" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/ic_music_note.xml" value="0.1475" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/ic_music_off.xml" value="0.1475" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/ic_round_arrow_left_24.xml" value="0.1475" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/ic_warning.xml" value="0.1" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/rhombus_red.xml" value="0.147" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/round_black.xml" value="0.147" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/drawable/round_red.xml" value="0.147" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/layout/activity_roulette.xml" value="0.33" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/layout/activity_slot.xml" value="0.25" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/layout/alert_info_roulette.xml" value="0.33" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/layout/alert_info_slot.xml" value="0.33" />
+        <entry key="..\:/Users/Cool_Otaku/AndroidStudioProjects/MakeRiskBet/app/src/main/res/layout/castom_toast.xml" value="0.19635416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

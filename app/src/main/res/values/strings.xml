@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Make Risk Bet</string>
+
+    <string name="slot">Slot</string>
+    <string name="roulette">Roulette</string>
+    <string name="quit">QUIT</string>
+
+    <string name="spin">Spin</string>
+    <string name="clear">Clear</string>
+    <string name="okay">Okay</string>
+
+    <string name="bet_coins">BET: %d</string>
+
+    <string name="_1_18">1-18</string>
+    <string name="even">EVEN</string>
+    <string name="odd">ODD</string>
+    <string name="_19_36">19-36</string>
+    <string name="_2_1">2:1</string>
+    <string name="_1st_12">1ST 12</string>
+    <string name="_2nd_12">2ND 12</string>
+    <string name="_3rd_12">3RD 12</string>
+
+    <string name="not_selected_chip">You have not selected a chip. Please choose a chip!</string>
+    <string name="please_make_bet">You have not placed any bids. Please make a bet!</string>
+    <string name="no_coins">You have no more money left!</string>
+    <string name="no_take_coins">You cannot take money. Because they are given only when you have absolutely no money!</string>
+    <string name="bet_is_greater_balance">Your bet is greater than your balance!</string>
+
+    <string name="you_win">You WIN %d money!!!</string>
+
+    <string name="info_slot_1">The rules of the game are quite simple. But don\'t rush to conclusions. It is quite difficult to win ;)</string>
+    <string name="info_slot_2">Rules of the game:</string>
+    <string name="info_slot_3">- If 3 of a kind fall out, the winnings are multiplied by 10;\n- If 2 are the same but close, the winnings are multiplied by 5;\n- And if just 2 identical ones fall out, the winnings are multiplied by 3.</string>
+
+    <string name="info_roulette_1">Rules of the game:\n\nEveryone is familiar with the usual European roulette.Only without sector splits for greater difficulty and excitement.</string>
+    <string name="info_roulette_2">Bets:</string>
+    <string name="info_roulette_3">- Direct 35 to 1;\n- Red 1 to 1;\n- Black 1 to 1;\n- Odd 1 to 1;\n- Even 1 to 1;\n- Small (1-18) 1 to 1;\n- Large (19-36) 1 to 1;\n- 1st, 2nd or 3rd dozen 2 to 1;\n- 1st, 2nd or 3rd column;\n- Plus the bet you placed.</string>
+
+</resources>
