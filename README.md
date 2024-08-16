@@ -31,12 +31,14 @@ Casino 2D game, made to order. Developed using **Java Android SDK**.
 - Creating a 2D game using the **Java Android SDK**
 - Work on the **Android** platform
 - Internal game currency
+- Multi streaming
 - Save game data
 
 <b>UA:</b>
 - Створення 2D гри за допомогою **Java Android SDK**
 - Робота на платформі **Android**
 - Внутрішня ігрова валюта
+- Багато потоковість
 - Збереження даних гри
 
 #
